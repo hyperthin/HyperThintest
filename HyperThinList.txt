@@ -19,8 +19,8 @@
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||googleadservices.com^
-||doubleclick.net/^
-||ad.doubleclick.net/^
+||doubleclick.net^
+||ad.doubleclick.net^
 ||static.doubleclick.net^
 ||google-analytics.com^
 ||ssl.google-analytics.com^
