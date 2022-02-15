@@ -43,4 +43,5 @@
 /^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
 ||142.250.181.238manifest.googlevideo.com^
+||ugroocuw.net^
 ||manifest.googlevideo.com^
