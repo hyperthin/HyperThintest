@@ -60,3 +60,7 @@
 ||browser.sentry-cdn.com^
 ||log.videocampaign.co^
 ||uanuiiww.com^
+188.42.224.24
+188.42.224.23
+188.42.224.21
+188.42.224.22
