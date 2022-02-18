@@ -1,0 +1,3 @@
+@@||pbs.twimg.com^$important
+@@||mmg.whatsapp.net^$important
+@@||mmg-fallback.whatsapp.net^$important
