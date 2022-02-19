@@ -1,3 +1,12 @@
+!
+! Title: HyerThin filter
+! Description: Filter composed of several other filters and simplified specifically to be better compatible with DNS-level ad blocking.
+! Source name: HyperThinList
+! Source: https://raw.githubusercontent.com/hyperthin/HyperThintest/main/HyperThinList.txt
+! ------------------------------------[FILTERS]-------------------------------------
+# Twitter Photos issue
 @@||pbs.twimg.com^$important
+
+# Whatsapp VoiceNote Issues
 @@||mmg.whatsapp.net^$important
 @@||mmg-fallback.whatsapp.net^$important
