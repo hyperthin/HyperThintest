@@ -41,4 +41,3 @@
 205.251.195.166
 
 # IP returns 0.0.0.0
-0.0.0.0 manifest.googlevideo.com
