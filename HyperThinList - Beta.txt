@@ -1,0 +1,44 @@
+!
+! Title: HyerThin filter
+! Description: Filter composed of several other filters and simplified specifically to be better compatible with DNS-level ad blocking.
+! Source name: HyperThinList
+! Source: https://raw.githubusercontent.com/hyperthin/HyperThintest/main/HyperThinList.txt
+! ------------------------------------[FILTERS]-------------------------------------
+
+# REGEX
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/
+
+# Domains
+||log.videocampaign.co^
+||uanuiiww.com^
+||redirector.gvt1.com^
+
+# A Records or CNAME
+188.42.224.24
+188.42.224.23
+188.42.224.21
+188.42.224.22
+205.251.197.29
+205.251.199.97
+205.251.192.42
+205.251.194.71
+205.251.197.148
+205.251.199.222
+205.251.192.205
+205.251.195.166
+
+# IP returns 0.0.0.0
+0.0.0.0 manifest.googlevideo.com
