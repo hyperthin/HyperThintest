@@ -11,3 +11,6 @@
 # Whatsapp VoiceNote Issues
 @@||mmg.whatsapp.net^$important
 @@||mmg-fallback.whatsapp.net^$important
+# googel short links issue
+@@||theadssy.com^$important
+@@||clickserve.dartsearch.net^$important
